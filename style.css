@@ -65,5 +65,7 @@ footer {
     width: 90%;
     margin: 20px auto;
   }
-  
+  .contents:last-child {
+    margin: 0 auto;
+  }
 }
